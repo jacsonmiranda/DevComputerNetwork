@@ -6,7 +6,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <locale.h>
-#include <windows.h>
 #include <math.h>
 #include <unistd.h> // to use sleep
 
